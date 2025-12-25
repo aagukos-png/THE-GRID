@@ -1,0 +1,7 @@
+{
+  "name": "Copy of THE GRID - Regulated Technician Marketplace",
+  "description": "A trust-first, professional platform connecting EPRA-licensed electricians and solar technicians with verified contractors in Kenya.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
